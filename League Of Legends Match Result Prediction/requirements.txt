@@ -1,5 +1,0 @@
-streamlit
-pickle-mixin
-pandas
-scikit-learn
-xgboost

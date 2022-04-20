@@ -1,1 +1,0 @@
-web: sh setup.sh && streamlit run albert_ml2.py
